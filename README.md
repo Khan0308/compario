@@ -30,8 +30,7 @@ Instead of visiting multiple websites to research different products, users can 
 - JavaScript
 - HTML5
 - CSS3
-- [Add your backend technology here, if applicable]
-- [Add your database here, if applicable]
+
 
 
 
