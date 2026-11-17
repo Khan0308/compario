@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "nextId": 1001,
+  "added": [
+    {
+      "id": 1000,
+      "name": "Whatsapp",
+      "slug": "whatsapp",
+      "category": "social-media-management",
+      "website": null,
+      "description": "Social  App for sharing memories.",
+      "logoUrl": null,
+      "dateAdded": "2026-11-17"
+    }
+  ],
+  "removed": [],
+  "overrides": {}
+}
